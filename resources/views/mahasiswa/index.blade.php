@@ -13,6 +13,7 @@
                 <!-- TOMBOL TAMBAH DATA -->
                 <div class="pb-3">
                   <a href='{{ url('mahasiswa/create') }}' class="btn btn-primary">+ Tambah Data</a>
+                  <a href="http://127.0.0.1:8000/home" class="btn btn-secondary">Kembali</a>
                 </div>
           
                 <table class="table table-striped">
